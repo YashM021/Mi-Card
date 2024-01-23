@@ -1,16 +1,27 @@
-# mi_card
+# Mi Card - Business Card App
 
-An app to give u an introduction to Yash More
+Mi Card is a simple Flutter-based business card application that showcases your contact information.
+
+## Features
+
+- Display your name, title, and contact information
+- Professional and clean design
+- Easy to customize with your personal details
+
+## Screenshots
+
+(Add screenshots or demo GIFs here)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter installed on your machine
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/YashM021/Mi-Card.git
+   cd Mi-Card
