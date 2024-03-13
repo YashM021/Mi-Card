@@ -14,5 +14,3 @@ Mi Card is a Flutter-based digital business card application that showcases your
 ![Screenshot 2024-01-23 121801](https://github.com/YashM021/Dicee/assets/156659124/7b0b05f0-51ec-4a1a-9179-aa7606ca88c0)
 
 
-(Add screenshots or demo GIFs here)
-
